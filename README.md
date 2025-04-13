@@ -1,5 +1,5 @@
 
-# Tiago Czusz Correia - GitHub Profile
+# Tiago Czusz Correia
 
 Bem-vindo ao meu perfil! Aqui você encontrará meus projetos de desenvolvimento de algoritmos, otimização de desempenho, e-commerce utilizando a plataforma Nuvemshop, e meu projeto de criação do personagem virtual Tiago Czusz Correia.
 
